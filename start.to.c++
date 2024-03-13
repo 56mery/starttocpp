@@ -156,3 +156,9 @@ int main() {
 
     return 0;
 }
+
+
+
+///cok değerli senior abim ilk olarak yine int main yazdığım için üzgünüm ama devami gelicek söz. ikinci olarak terminalden git push falan onların hepsini yaptım
+//ama olmadı ben de buraları biraz kurcaladım farklı bir yolla dosyayı yukledim farkı ne acaba eksikleri ne merak ediyorum ama saat geç o yuzde yarin sorcam
+//son olarak teşekkürlerrrr 
